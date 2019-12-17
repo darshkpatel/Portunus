@@ -19,7 +19,7 @@ var (
 	ports           = flag.String("ports", "", "A port OR range of ports to scan Eg. 80 or 8000-8080 or 80,21,22")
 )
 
-func parseFlags() {
+func ParseFlags() {
 	flag.Usage = func() {
 		fmt.Println("Portunus -  A Minimalist Multithreaded Port Scanner")
 		flag.PrintDefaults()
