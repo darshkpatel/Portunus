@@ -1,5 +1,7 @@
 <img src="img/banner.png" alt="Portunus -  A Minimalist Multithreaded Port Scanner">
 
+![Build](https://github.com/darshkpatel/Portunus/workflows/Go%20Build%20Test/badge.svg)
+
 ## Usage
 ```
 Portunus -  A Minimalist Multithreaded Port Scanner
